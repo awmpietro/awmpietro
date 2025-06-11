@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm **Arthur Mastropietro**, a passionate **Senior Software & Blockchain Engineer** with 15+ years of experience crafting scalable, reliable, and high-performance systems. I specialize in **Golang**, with strong expertise in **blockchain**, **microservices**, and **AI integrations**. I love solving complex problems, writing clean code, and collaborating with great teams. Besides that i also play guitar in a heavy metal band, but that does not pay the bills.
+I'm **Arthur Mastropietro**, a passionate **Software Engineer** with 15+ years of experience crafting scalable, reliable, and high-performance systems. I specialize in **Golang**, with strong expertise in **blockchain**, **microservices**, and **AI integrations**. I love solving complex problems, writing clean code, and collaborating with great teams. Besides that i also play guitar in a heavy metal band, but that does not pay the bills.
 
 ---
 
@@ -84,15 +84,14 @@ A platform for Brazilian musicians to form bands, jam online, and collaborate
 ## Education & Certifications
 
 - Bachelor in Systems Analysis and Development – *Anhembi Morumbi*  
-- Postgraduate in Software Engineering – *Anhembi Morumbi*  
-- Blockchain specialization with 7+ years of experience in Solidity and EVM development
+- Postgraduate in Software Engineering – *Anhembi Morumbi*
 
 ---
 
 ## 📈 GitHub Stats
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurmastropietro&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmastropietro&layout=compact&theme=radical)
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=awmpietro&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awmpietro&layout=compact&theme=radical)
 
 ---
 
